@@ -1,0 +1,26 @@
+{
+  "name": "introhtlm-1",
+  "version": "1.0.0",
+  "description": "Exemplo de HTML ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaucorreia/introHTLM.git"
+  },
+  "author": "Nicolau Correia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaucorreia/introHTLM/issues"
+  },
+  "homepage": "https://github.com/nicolaucorreia/introHTLM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
